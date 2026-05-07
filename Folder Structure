@@ -1,0 +1,13 @@
+supreme-portfolio-2026/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── images/
+│   ├── profile.jpg
+│   ├── project1.jpg
+│   └── project2.jpg
+├── models/
+│   └── hero.glb       # optional for future upgrade
+├── README.md
